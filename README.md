@@ -40,8 +40,8 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition](ludecomposition1output.PNG)
-![lu decomposition](ludecomposition2output.PNG)
+![LU decomposition](ludecomposition1output.PNG)
+![LU decomposition](ludecomposition2output.PNG)
 
 
 ## Result:
