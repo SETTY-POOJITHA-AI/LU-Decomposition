@@ -27,7 +27,6 @@ A =eval(input())
 P,L,U=lu(A)
 print(L)
 print(U)
---------------------------------------------------
 
 
 import numpy as np
