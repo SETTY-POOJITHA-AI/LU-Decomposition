@@ -42,8 +42,8 @@ print(x)
 ```
 
 ## Output:
-![LU decomposition](ludecomposition1output.PNG)
-![LU decomposition](ludecomposition2output.PNG)
+![output](ludecomposition1output.png)
+![output](ludecomposition2output.png)
 
 
 ## Result:
